@@ -1,8 +1,7 @@
-# Hangman game
+# Hangman game (problem set from the MIT 6.00x Intro to Computer Science and Programming online course)
 
-import random
 import string
-
+import random
 WORDLIST_FILENAME = "words.txt"
 
 def loadWords():
